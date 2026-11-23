@@ -1,0 +1,1442 @@
+[
+  {
+    "slug": "all-purpose-flour",
+    "name": "All-purpose flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 120,
+    "grams_per_tbsp": 7.5,
+    "grams_per_tsp": 2.5,
+    "url": "https://bakemath.web.app/cups-to-grams/all-purpose-flour/"
+  },
+  {
+    "slug": "bread-flour",
+    "name": "Bread flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 120,
+    "grams_per_tbsp": 7.5,
+    "grams_per_tsp": 2.5,
+    "url": "https://bakemath.web.app/cups-to-grams/bread-flour/"
+  },
+  {
+    "slug": "whole-wheat-flour",
+    "name": "Whole wheat flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/whole-wheat-flour/"
+  },
+  {
+    "slug": "cake-flour",
+    "name": "Cake flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 114,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/cake-flour/"
+  },
+  {
+    "slug": "self-rising-flour",
+    "name": "Self-rising flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/self-rising-flour/"
+  },
+  {
+    "slug": "00-flour",
+    "name": "00 flour (pizza flour)",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 116,
+    "grams_per_tbsp": 7.3,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/00-flour/"
+  },
+  {
+    "slug": "rye-flour",
+    "name": "Rye flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 106,
+    "grams_per_tbsp": 6.6,
+    "grams_per_tsp": 2.2,
+    "url": "https://bakemath.web.app/cups-to-grams/rye-flour/"
+  },
+  {
+    "slug": "spelt-flour",
+    "name": "Spelt flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 102,
+    "grams_per_tbsp": 6.4,
+    "grams_per_tsp": 2.1,
+    "url": "https://bakemath.web.app/cups-to-grams/spelt-flour/"
+  },
+  {
+    "slug": "semolina",
+    "name": "Semolina",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 163,
+    "grams_per_tbsp": 10.2,
+    "grams_per_tsp": 3.4,
+    "url": "https://bakemath.web.app/cups-to-grams/semolina/"
+  },
+  {
+    "slug": "almond-flour",
+    "name": "Almond flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 96,
+    "grams_per_tbsp": 6,
+    "grams_per_tsp": 2,
+    "url": "https://bakemath.web.app/cups-to-grams/almond-flour/"
+  },
+  {
+    "slug": "coconut-flour",
+    "name": "Coconut flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 128,
+    "grams_per_tbsp": 8,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/coconut-flour/"
+  },
+  {
+    "slug": "oat-flour",
+    "name": "Oat flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 92,
+    "grams_per_tbsp": 5.8,
+    "grams_per_tsp": 1.9,
+    "url": "https://bakemath.web.app/cups-to-grams/oat-flour/"
+  },
+  {
+    "slug": "rice-flour",
+    "name": "Rice flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 142,
+    "grams_per_tbsp": 8.9,
+    "grams_per_tsp": 3,
+    "url": "https://bakemath.web.app/cups-to-grams/rice-flour/"
+  },
+  {
+    "slug": "buckwheat-flour",
+    "name": "Buckwheat flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 120,
+    "grams_per_tbsp": 7.5,
+    "grams_per_tsp": 2.5,
+    "url": "https://bakemath.web.app/cups-to-grams/buckwheat-flour/"
+  },
+  {
+    "slug": "cornmeal",
+    "name": "Cornmeal",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 138,
+    "grams_per_tbsp": 8.6,
+    "grams_per_tsp": 2.9,
+    "url": "https://bakemath.web.app/cups-to-grams/cornmeal/"
+  },
+  {
+    "slug": "cornstarch",
+    "name": "Cornstarch",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 112,
+    "grams_per_tbsp": 7,
+    "grams_per_tsp": 2.3,
+    "url": "https://bakemath.web.app/cups-to-grams/cornstarch/"
+  },
+  {
+    "slug": "granulated-sugar",
+    "name": "Granulated sugar",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 198,
+    "grams_per_tbsp": 12.4,
+    "grams_per_tsp": 4.1,
+    "url": "https://bakemath.web.app/cups-to-grams/granulated-sugar/"
+  },
+  {
+    "slug": "brown-sugar",
+    "name": "Brown sugar (packed)",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 213,
+    "grams_per_tbsp": 13.3,
+    "grams_per_tsp": 4.4,
+    "url": "https://bakemath.web.app/cups-to-grams/brown-sugar/"
+  },
+  {
+    "slug": "powdered-sugar",
+    "name": "Powdered sugar",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/powdered-sugar/"
+  },
+  {
+    "slug": "caster-sugar",
+    "name": "Caster sugar",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 200,
+    "grams_per_tbsp": 12.5,
+    "grams_per_tsp": 4.2,
+    "url": "https://bakemath.web.app/cups-to-grams/caster-sugar/"
+  },
+  {
+    "slug": "honey",
+    "name": "Honey",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 336,
+    "grams_per_tbsp": 21,
+    "grams_per_tsp": 7,
+    "url": "https://bakemath.web.app/cups-to-grams/honey/"
+  },
+  {
+    "slug": "maple-syrup",
+    "name": "Maple syrup",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 312,
+    "grams_per_tbsp": 19.5,
+    "grams_per_tsp": 6.5,
+    "url": "https://bakemath.web.app/cups-to-grams/maple-syrup/"
+  },
+  {
+    "slug": "molasses",
+    "name": "Molasses",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 337,
+    "grams_per_tbsp": 21.1,
+    "grams_per_tsp": 7,
+    "url": "https://bakemath.web.app/cups-to-grams/molasses/"
+  },
+  {
+    "slug": "butter",
+    "name": "Butter",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 227,
+    "grams_per_tbsp": 14.2,
+    "grams_per_tsp": 4.7,
+    "url": "https://bakemath.web.app/cups-to-grams/butter/"
+  },
+  {
+    "slug": "vegetable-oil",
+    "name": "Vegetable oil",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 218,
+    "grams_per_tbsp": 13.6,
+    "grams_per_tsp": 4.5,
+    "url": "https://bakemath.web.app/cups-to-grams/vegetable-oil/"
+  },
+  {
+    "slug": "olive-oil",
+    "name": "Olive oil",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 216,
+    "grams_per_tbsp": 13.5,
+    "grams_per_tsp": 4.5,
+    "url": "https://bakemath.web.app/cups-to-grams/olive-oil/"
+  },
+  {
+    "slug": "coconut-oil",
+    "name": "Coconut oil",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 218,
+    "grams_per_tbsp": 13.6,
+    "grams_per_tsp": 4.5,
+    "url": "https://bakemath.web.app/cups-to-grams/coconut-oil/"
+  },
+  {
+    "slug": "shortening",
+    "name": "Vegetable shortening",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 191,
+    "grams_per_tbsp": 11.9,
+    "grams_per_tsp": 4,
+    "url": "https://bakemath.web.app/cups-to-grams/shortening/"
+  },
+  {
+    "slug": "peanut-butter",
+    "name": "Peanut butter",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 270,
+    "grams_per_tbsp": 16.9,
+    "grams_per_tsp": 5.6,
+    "url": "https://bakemath.web.app/cups-to-grams/peanut-butter/"
+  },
+  {
+    "slug": "water",
+    "name": "Water",
+    "category": "Water & starter",
+    "grams_per_us_cup": 237,
+    "grams_per_tbsp": 14.8,
+    "grams_per_tsp": 4.9,
+    "url": "https://bakemath.web.app/cups-to-grams/water/"
+  },
+  {
+    "slug": "milk",
+    "name": "Milk",
+    "category": "Dairy",
+    "grams_per_us_cup": 244,
+    "grams_per_tbsp": 15.3,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/milk/"
+  },
+  {
+    "slug": "buttermilk",
+    "name": "Buttermilk",
+    "category": "Dairy",
+    "grams_per_us_cup": 245,
+    "grams_per_tbsp": 15.3,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/buttermilk/"
+  },
+  {
+    "slug": "heavy-cream",
+    "name": "Heavy cream",
+    "category": "Dairy",
+    "grams_per_us_cup": 238,
+    "grams_per_tbsp": 14.9,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/heavy-cream/"
+  },
+  {
+    "slug": "yogurt",
+    "name": "Yogurt",
+    "category": "Dairy",
+    "grams_per_us_cup": 245,
+    "grams_per_tbsp": 15.3,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/yogurt/"
+  },
+  {
+    "slug": "sour-cream",
+    "name": "Sour cream",
+    "category": "Dairy",
+    "grams_per_us_cup": 242,
+    "grams_per_tbsp": 15.1,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/sour-cream/"
+  },
+  {
+    "slug": "cream-cheese",
+    "name": "Cream cheese",
+    "category": "Dairy",
+    "grams_per_us_cup": 232,
+    "grams_per_tbsp": 14.5,
+    "grams_per_tsp": 4.8,
+    "url": "https://bakemath.web.app/cups-to-grams/cream-cheese/"
+  },
+  {
+    "slug": "parmesan",
+    "name": "Parmesan (grated)",
+    "category": "Dairy",
+    "grams_per_us_cup": 100,
+    "grams_per_tbsp": 6.3,
+    "grams_per_tsp": 2.1,
+    "url": "https://bakemath.web.app/cups-to-grams/parmesan/"
+  },
+  {
+    "slug": "shredded-cheese",
+    "name": "Shredded cheese (cheddar)",
+    "category": "Dairy",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/shredded-cheese/"
+  },
+  {
+    "slug": "sourdough-starter",
+    "name": "Sourdough starter (100% hydration)",
+    "category": "Water & starter",
+    "grams_per_us_cup": 227,
+    "grams_per_tbsp": 14.2,
+    "grams_per_tsp": 4.7,
+    "url": "https://bakemath.web.app/cups-to-grams/sourdough-starter/"
+  },
+  {
+    "slug": "baking-powder",
+    "name": "Baking powder",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 192,
+    "grams_per_tbsp": 12,
+    "grams_per_tsp": 4,
+    "url": "https://bakemath.web.app/cups-to-grams/baking-powder/"
+  },
+  {
+    "slug": "baking-soda",
+    "name": "Baking soda",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 288,
+    "grams_per_tbsp": 18,
+    "grams_per_tsp": 6,
+    "url": "https://bakemath.web.app/cups-to-grams/baking-soda/"
+  },
+  {
+    "slug": "instant-yeast",
+    "name": "Instant yeast",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 149,
+    "grams_per_tbsp": 9.3,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/instant-yeast/"
+  },
+  {
+    "slug": "active-dry-yeast",
+    "name": "Active dry yeast",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 149,
+    "grams_per_tbsp": 9.3,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/active-dry-yeast/"
+  },
+  {
+    "slug": "table-salt",
+    "name": "Table salt",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 288,
+    "grams_per_tbsp": 18,
+    "grams_per_tsp": 6,
+    "url": "https://bakemath.web.app/cups-to-grams/table-salt/"
+  },
+  {
+    "slug": "kosher-salt",
+    "name": "Kosher salt (Diamond Crystal)",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 137,
+    "grams_per_tbsp": 8.6,
+    "grams_per_tsp": 2.9,
+    "url": "https://bakemath.web.app/cups-to-grams/kosher-salt/"
+  },
+  {
+    "slug": "cocoa-powder",
+    "name": "Cocoa powder",
+    "category": "Other",
+    "grams_per_us_cup": 84,
+    "grams_per_tbsp": 5.3,
+    "grams_per_tsp": 1.8,
+    "url": "https://bakemath.web.app/cups-to-grams/cocoa-powder/"
+  },
+  {
+    "slug": "chocolate-chips",
+    "name": "Chocolate chips",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 170,
+    "grams_per_tbsp": 10.6,
+    "grams_per_tsp": 3.5,
+    "url": "https://bakemath.web.app/cups-to-grams/chocolate-chips/"
+  },
+  {
+    "slug": "rolled-oats",
+    "name": "Rolled oats",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 89,
+    "grams_per_tbsp": 5.6,
+    "grams_per_tsp": 1.9,
+    "url": "https://bakemath.web.app/cups-to-grams/rolled-oats/"
+  },
+  {
+    "slug": "walnuts",
+    "name": "Walnuts (chopped)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/walnuts/"
+  },
+  {
+    "slug": "pecans",
+    "name": "Pecans (chopped)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/pecans/"
+  },
+  {
+    "slug": "sliced-almonds",
+    "name": "Almonds (sliced)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 86,
+    "grams_per_tbsp": 5.4,
+    "grams_per_tsp": 1.8,
+    "url": "https://bakemath.web.app/cups-to-grams/sliced-almonds/"
+  },
+  {
+    "slug": "shredded-coconut",
+    "name": "Shredded coconut",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 85,
+    "grams_per_tbsp": 5.3,
+    "grams_per_tsp": 1.8,
+    "url": "https://bakemath.web.app/cups-to-grams/shredded-coconut/"
+  },
+  {
+    "slug": "raisins",
+    "name": "Raisins",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 149,
+    "grams_per_tbsp": 9.3,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/raisins/"
+  },
+  {
+    "slug": "sesame-seeds",
+    "name": "Sesame seeds",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 142,
+    "grams_per_tbsp": 8.9,
+    "grams_per_tsp": 3,
+    "url": "https://bakemath.web.app/cups-to-grams/sesame-seeds/"
+  },
+  {
+    "slug": "chia-seeds",
+    "name": "Chia seeds",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 160,
+    "grams_per_tbsp": 10,
+    "grams_per_tsp": 3.3,
+    "url": "https://bakemath.web.app/cups-to-grams/chia-seeds/"
+  },
+  {
+    "slug": "ground-flaxseed",
+    "name": "Ground flaxseed",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 112,
+    "grams_per_tbsp": 7,
+    "grams_per_tsp": 2.3,
+    "url": "https://bakemath.web.app/cups-to-grams/ground-flaxseed/"
+  },
+  {
+    "slug": "white-rice",
+    "name": "White rice (uncooked)",
+    "category": "Other",
+    "grams_per_us_cup": 185,
+    "grams_per_tbsp": 11.6,
+    "grams_per_tsp": 3.9,
+    "url": "https://bakemath.web.app/cups-to-grams/white-rice/"
+  },
+  {
+    "slug": "mashed-banana",
+    "name": "Mashed banana",
+    "category": "Other",
+    "grams_per_us_cup": 227,
+    "grams_per_tbsp": 14.2,
+    "grams_per_tsp": 4.7,
+    "url": "https://bakemath.web.app/cups-to-grams/mashed-banana/"
+  },
+  {
+    "slug": "pumpkin-puree",
+    "name": "Pumpkin puree",
+    "category": "Other",
+    "grams_per_us_cup": 227,
+    "grams_per_tbsp": 14.2,
+    "grams_per_tsp": 4.7,
+    "url": "https://bakemath.web.app/cups-to-grams/pumpkin-puree/"
+  },
+  {
+    "slug": "applesauce",
+    "name": "Applesauce",
+    "category": "Other",
+    "grams_per_us_cup": 255,
+    "grams_per_tbsp": 15.9,
+    "grams_per_tsp": 5.3,
+    "url": "https://bakemath.web.app/cups-to-grams/applesauce/"
+  },
+  {
+    "slug": "breadcrumbs",
+    "name": "Breadcrumbs (dry)",
+    "category": "Other",
+    "grams_per_us_cup": 112,
+    "grams_per_tbsp": 7,
+    "grams_per_tsp": 2.3,
+    "url": "https://bakemath.web.app/cups-to-grams/breadcrumbs/"
+  },
+  {
+    "slug": "pastry-flour",
+    "name": "Pastry flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 106,
+    "grams_per_tbsp": 6.6,
+    "grams_per_tsp": 2.2,
+    "url": "https://bakemath.web.app/cups-to-grams/pastry-flour/"
+  },
+  {
+    "slug": "whole-wheat-pastry-flour",
+    "name": "Whole wheat pastry flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 96,
+    "grams_per_tbsp": 6,
+    "grams_per_tsp": 2,
+    "url": "https://bakemath.web.app/cups-to-grams/whole-wheat-pastry-flour/"
+  },
+  {
+    "slug": "gluten-free-flour",
+    "name": "Gluten-free flour blend",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 130,
+    "grams_per_tbsp": 8.1,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/gluten-free-flour/"
+  },
+  {
+    "slug": "tapioca-flour",
+    "name": "Tapioca flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 120,
+    "grams_per_tbsp": 7.5,
+    "grams_per_tsp": 2.5,
+    "url": "https://bakemath.web.app/cups-to-grams/tapioca-flour/"
+  },
+  {
+    "slug": "potato-starch",
+    "name": "Potato starch",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 160,
+    "grams_per_tbsp": 10,
+    "grams_per_tsp": 3.3,
+    "url": "https://bakemath.web.app/cups-to-grams/potato-starch/"
+  },
+  {
+    "slug": "arrowroot",
+    "name": "Arrowroot powder",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 128,
+    "grams_per_tbsp": 8,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/arrowroot/"
+  },
+  {
+    "slug": "chickpea-flour",
+    "name": "Chickpea flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 92,
+    "grams_per_tbsp": 5.8,
+    "grams_per_tsp": 1.9,
+    "url": "https://bakemath.web.app/cups-to-grams/chickpea-flour/"
+  },
+  {
+    "slug": "cassava-flour",
+    "name": "Cassava flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 130,
+    "grams_per_tbsp": 8.1,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/cassava-flour/"
+  },
+  {
+    "slug": "einkorn-flour",
+    "name": "Einkorn flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 104,
+    "grams_per_tbsp": 6.5,
+    "grams_per_tsp": 2.2,
+    "url": "https://bakemath.web.app/cups-to-grams/einkorn-flour/"
+  },
+  {
+    "slug": "teff-flour",
+    "name": "Teff flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 135,
+    "grams_per_tbsp": 8.4,
+    "grams_per_tsp": 2.8,
+    "url": "https://bakemath.web.app/cups-to-grams/teff-flour/"
+  },
+  {
+    "slug": "sorghum-flour",
+    "name": "Sorghum flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 128,
+    "grams_per_tbsp": 8,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/sorghum-flour/"
+  },
+  {
+    "slug": "quinoa-flour",
+    "name": "Quinoa flour",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 112,
+    "grams_per_tbsp": 7,
+    "grams_per_tsp": 2.3,
+    "url": "https://bakemath.web.app/cups-to-grams/quinoa-flour/"
+  },
+  {
+    "slug": "masa-harina",
+    "name": "Masa harina",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 116,
+    "grams_per_tbsp": 7.3,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/masa-harina/"
+  },
+  {
+    "slug": "vital-wheat-gluten",
+    "name": "Vital wheat gluten",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 144,
+    "grams_per_tbsp": 9,
+    "grams_per_tsp": 3,
+    "url": "https://bakemath.web.app/cups-to-grams/vital-wheat-gluten/"
+  },
+  {
+    "slug": "graham-cracker-crumbs",
+    "name": "Graham cracker crumbs",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 100,
+    "grams_per_tbsp": 6.3,
+    "grams_per_tsp": 2.1,
+    "url": "https://bakemath.web.app/cups-to-grams/graham-cracker-crumbs/"
+  },
+  {
+    "slug": "panko",
+    "name": "Panko breadcrumbs",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 50,
+    "grams_per_tbsp": 3.1,
+    "grams_per_tsp": 1,
+    "url": "https://bakemath.web.app/cups-to-grams/panko/"
+  },
+  {
+    "slug": "quick-oats",
+    "name": "Quick oats",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 80,
+    "grams_per_tbsp": 5,
+    "grams_per_tsp": 1.7,
+    "url": "https://bakemath.web.app/cups-to-grams/quick-oats/"
+  },
+  {
+    "slug": "steel-cut-oats",
+    "name": "Steel-cut oats",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 176,
+    "grams_per_tbsp": 11,
+    "grams_per_tsp": 3.7,
+    "url": "https://bakemath.web.app/cups-to-grams/steel-cut-oats/"
+  },
+  {
+    "slug": "wheat-germ",
+    "name": "Wheat germ",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 112,
+    "grams_per_tbsp": 7,
+    "grams_per_tsp": 2.3,
+    "url": "https://bakemath.web.app/cups-to-grams/wheat-germ/"
+  },
+  {
+    "slug": "wheat-bran",
+    "name": "Wheat bran",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 64,
+    "grams_per_tbsp": 4,
+    "grams_per_tsp": 1.3,
+    "url": "https://bakemath.web.app/cups-to-grams/wheat-bran/"
+  },
+  {
+    "slug": "oat-bran",
+    "name": "Oat bran",
+    "category": "Flours & starches",
+    "grams_per_us_cup": 94,
+    "grams_per_tbsp": 5.9,
+    "grams_per_tsp": 2,
+    "url": "https://bakemath.web.app/cups-to-grams/oat-bran/"
+  },
+  {
+    "slug": "brown-rice",
+    "name": "Brown rice (uncooked)",
+    "category": "Other",
+    "grams_per_us_cup": 190,
+    "grams_per_tbsp": 11.9,
+    "grams_per_tsp": 4,
+    "url": "https://bakemath.web.app/cups-to-grams/brown-rice/"
+  },
+  {
+    "slug": "cooked-rice",
+    "name": "Cooked white rice",
+    "category": "Other",
+    "grams_per_us_cup": 158,
+    "grams_per_tbsp": 9.9,
+    "grams_per_tsp": 3.3,
+    "url": "https://bakemath.web.app/cups-to-grams/cooked-rice/"
+  },
+  {
+    "slug": "quinoa",
+    "name": "Quinoa (uncooked)",
+    "category": "Other",
+    "grams_per_us_cup": 170,
+    "grams_per_tbsp": 10.6,
+    "grams_per_tsp": 3.5,
+    "url": "https://bakemath.web.app/cups-to-grams/quinoa/"
+  },
+  {
+    "slug": "lentils",
+    "name": "Lentils (dry)",
+    "category": "Other",
+    "grams_per_us_cup": 192,
+    "grams_per_tbsp": 12,
+    "grams_per_tsp": 4,
+    "url": "https://bakemath.web.app/cups-to-grams/lentils/"
+  },
+  {
+    "slug": "crisped-rice-cereal",
+    "name": "Crisped rice cereal",
+    "category": "Other",
+    "grams_per_us_cup": 28,
+    "grams_per_tbsp": 1.8,
+    "grams_per_tsp": 0.6,
+    "url": "https://bakemath.web.app/cups-to-grams/crisped-rice-cereal/"
+  },
+  {
+    "slug": "dark-brown-sugar",
+    "name": "Dark brown sugar (packed)",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 213,
+    "grams_per_tbsp": 13.3,
+    "grams_per_tsp": 4.4,
+    "url": "https://bakemath.web.app/cups-to-grams/dark-brown-sugar/"
+  },
+  {
+    "slug": "muscovado-sugar",
+    "name": "Muscovado sugar (packed)",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 213,
+    "grams_per_tbsp": 13.3,
+    "grams_per_tsp": 4.4,
+    "url": "https://bakemath.web.app/cups-to-grams/muscovado-sugar/"
+  },
+  {
+    "slug": "turbinado-sugar",
+    "name": "Turbinado sugar",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 180,
+    "grams_per_tbsp": 11.3,
+    "grams_per_tsp": 3.8,
+    "url": "https://bakemath.web.app/cups-to-grams/turbinado-sugar/"
+  },
+  {
+    "slug": "demerara-sugar",
+    "name": "Demerara sugar",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 200,
+    "grams_per_tbsp": 12.5,
+    "grams_per_tsp": 4.2,
+    "url": "https://bakemath.web.app/cups-to-grams/demerara-sugar/"
+  },
+  {
+    "slug": "coconut-sugar",
+    "name": "Coconut sugar",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 150,
+    "grams_per_tbsp": 9.4,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/coconut-sugar/"
+  },
+  {
+    "slug": "erythritol",
+    "name": "Erythritol (granulated)",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 192,
+    "grams_per_tbsp": 12,
+    "grams_per_tsp": 4,
+    "url": "https://bakemath.web.app/cups-to-grams/erythritol/"
+  },
+  {
+    "slug": "corn-syrup",
+    "name": "Light corn syrup",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 328,
+    "grams_per_tbsp": 20.5,
+    "grams_per_tsp": 6.8,
+    "url": "https://bakemath.web.app/cups-to-grams/corn-syrup/"
+  },
+  {
+    "slug": "golden-syrup",
+    "name": "Golden syrup",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 340,
+    "grams_per_tbsp": 21.3,
+    "grams_per_tsp": 7.1,
+    "url": "https://bakemath.web.app/cups-to-grams/golden-syrup/"
+  },
+  {
+    "slug": "agave-nectar",
+    "name": "Agave nectar",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 330,
+    "grams_per_tbsp": 20.6,
+    "grams_per_tsp": 6.9,
+    "url": "https://bakemath.web.app/cups-to-grams/agave-nectar/"
+  },
+  {
+    "slug": "sweetened-condensed-milk",
+    "name": "Sweetened condensed milk",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 306,
+    "grams_per_tbsp": 19.1,
+    "grams_per_tsp": 6.4,
+    "url": "https://bakemath.web.app/cups-to-grams/sweetened-condensed-milk/"
+  },
+  {
+    "slug": "jam",
+    "name": "Jam or preserves",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 320,
+    "grams_per_tbsp": 20,
+    "grams_per_tsp": 6.7,
+    "url": "https://bakemath.web.app/cups-to-grams/jam/"
+  },
+  {
+    "slug": "mini-marshmallows",
+    "name": "Mini marshmallows",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 50,
+    "grams_per_tbsp": 3.1,
+    "grams_per_tsp": 1,
+    "url": "https://bakemath.web.app/cups-to-grams/mini-marshmallows/"
+  },
+  {
+    "slug": "chocolate-hazelnut-spread",
+    "name": "Chocolate hazelnut spread",
+    "category": "Sugars & syrups",
+    "grams_per_us_cup": 296,
+    "grams_per_tbsp": 18.5,
+    "grams_per_tsp": 6.2,
+    "url": "https://bakemath.web.app/cups-to-grams/chocolate-hazelnut-spread/"
+  },
+  {
+    "slug": "melted-butter",
+    "name": "Melted butter",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 227,
+    "grams_per_tbsp": 14.2,
+    "grams_per_tsp": 4.7,
+    "url": "https://bakemath.web.app/cups-to-grams/melted-butter/"
+  },
+  {
+    "slug": "ghee",
+    "name": "Ghee",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 216,
+    "grams_per_tbsp": 13.5,
+    "grams_per_tsp": 4.5,
+    "url": "https://bakemath.web.app/cups-to-grams/ghee/"
+  },
+  {
+    "slug": "margarine",
+    "name": "Margarine",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 227,
+    "grams_per_tbsp": 14.2,
+    "grams_per_tsp": 4.7,
+    "url": "https://bakemath.web.app/cups-to-grams/margarine/"
+  },
+  {
+    "slug": "lard",
+    "name": "Lard",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 205,
+    "grams_per_tbsp": 12.8,
+    "grams_per_tsp": 4.3,
+    "url": "https://bakemath.web.app/cups-to-grams/lard/"
+  },
+  {
+    "slug": "canola-oil",
+    "name": "Canola oil",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 218,
+    "grams_per_tbsp": 13.6,
+    "grams_per_tsp": 4.5,
+    "url": "https://bakemath.web.app/cups-to-grams/canola-oil/"
+  },
+  {
+    "slug": "sunflower-oil",
+    "name": "Sunflower oil",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 218,
+    "grams_per_tbsp": 13.6,
+    "grams_per_tsp": 4.5,
+    "url": "https://bakemath.web.app/cups-to-grams/sunflower-oil/"
+  },
+  {
+    "slug": "almond-butter",
+    "name": "Almond butter",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 256,
+    "grams_per_tbsp": 16,
+    "grams_per_tsp": 5.3,
+    "url": "https://bakemath.web.app/cups-to-grams/almond-butter/"
+  },
+  {
+    "slug": "tahini",
+    "name": "Tahini",
+    "category": "Butter, oils & fats",
+    "grams_per_us_cup": 240,
+    "grams_per_tbsp": 15,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/tahini/"
+  },
+  {
+    "slug": "lemon-juice",
+    "name": "Lemon juice",
+    "category": "Water & starter",
+    "grams_per_us_cup": 244,
+    "grams_per_tbsp": 15.3,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/lemon-juice/"
+  },
+  {
+    "slug": "orange-juice",
+    "name": "Orange juice",
+    "category": "Water & starter",
+    "grams_per_us_cup": 248,
+    "grams_per_tbsp": 15.5,
+    "grams_per_tsp": 5.2,
+    "url": "https://bakemath.web.app/cups-to-grams/orange-juice/"
+  },
+  {
+    "slug": "vanilla-extract",
+    "name": "Vanilla extract",
+    "category": "Water & starter",
+    "grams_per_us_cup": 208,
+    "grams_per_tbsp": 13,
+    "grams_per_tsp": 4.3,
+    "url": "https://bakemath.web.app/cups-to-grams/vanilla-extract/"
+  },
+  {
+    "slug": "whole-eggs",
+    "name": "Eggs (beaten)",
+    "category": "Water & starter",
+    "grams_per_us_cup": 243,
+    "grams_per_tbsp": 15.2,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/whole-eggs/"
+  },
+  {
+    "slug": "egg-whites",
+    "name": "Egg whites",
+    "category": "Water & starter",
+    "grams_per_us_cup": 243,
+    "grams_per_tbsp": 15.2,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/egg-whites/"
+  },
+  {
+    "slug": "egg-yolks",
+    "name": "Egg yolks",
+    "category": "Water & starter",
+    "grams_per_us_cup": 245,
+    "grams_per_tbsp": 15.3,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/egg-yolks/"
+  },
+  {
+    "slug": "half-and-half",
+    "name": "Half-and-half",
+    "category": "Dairy",
+    "grams_per_us_cup": 242,
+    "grams_per_tbsp": 15.1,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/half-and-half/"
+  },
+  {
+    "slug": "evaporated-milk",
+    "name": "Evaporated milk",
+    "category": "Dairy",
+    "grams_per_us_cup": 252,
+    "grams_per_tbsp": 15.8,
+    "grams_per_tsp": 5.3,
+    "url": "https://bakemath.web.app/cups-to-grams/evaporated-milk/"
+  },
+  {
+    "slug": "coconut-milk",
+    "name": "Coconut milk (canned)",
+    "category": "Dairy",
+    "grams_per_us_cup": 240,
+    "grams_per_tbsp": 15,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/coconut-milk/"
+  },
+  {
+    "slug": "coconut-cream",
+    "name": "Coconut cream",
+    "category": "Dairy",
+    "grams_per_us_cup": 240,
+    "grams_per_tbsp": 15,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/coconut-cream/"
+  },
+  {
+    "slug": "almond-milk",
+    "name": "Almond milk",
+    "category": "Dairy",
+    "grams_per_us_cup": 240,
+    "grams_per_tbsp": 15,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/almond-milk/"
+  },
+  {
+    "slug": "oat-milk",
+    "name": "Oat milk",
+    "category": "Dairy",
+    "grams_per_us_cup": 240,
+    "grams_per_tbsp": 15,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/oat-milk/"
+  },
+  {
+    "slug": "greek-yogurt",
+    "name": "Greek yogurt",
+    "category": "Dairy",
+    "grams_per_us_cup": 250,
+    "grams_per_tbsp": 15.6,
+    "grams_per_tsp": 5.2,
+    "url": "https://bakemath.web.app/cups-to-grams/greek-yogurt/"
+  },
+  {
+    "slug": "ricotta",
+    "name": "Ricotta cheese",
+    "category": "Dairy",
+    "grams_per_us_cup": 246,
+    "grams_per_tbsp": 15.4,
+    "grams_per_tsp": 5.1,
+    "url": "https://bakemath.web.app/cups-to-grams/ricotta/"
+  },
+  {
+    "slug": "mascarpone",
+    "name": "Mascarpone",
+    "category": "Dairy",
+    "grams_per_us_cup": 230,
+    "grams_per_tbsp": 14.4,
+    "grams_per_tsp": 4.8,
+    "url": "https://bakemath.web.app/cups-to-grams/mascarpone/"
+  },
+  {
+    "slug": "cottage-cheese",
+    "name": "Cottage cheese",
+    "category": "Dairy",
+    "grams_per_us_cup": 225,
+    "grams_per_tbsp": 14.1,
+    "grams_per_tsp": 4.7,
+    "url": "https://bakemath.web.app/cups-to-grams/cottage-cheese/"
+  },
+  {
+    "slug": "creme-fraiche",
+    "name": "Crème fraîche",
+    "category": "Dairy",
+    "grams_per_us_cup": 240,
+    "grams_per_tbsp": 15,
+    "grams_per_tsp": 5,
+    "url": "https://bakemath.web.app/cups-to-grams/creme-fraiche/"
+  },
+  {
+    "slug": "shredded-mozzarella",
+    "name": "Shredded mozzarella",
+    "category": "Dairy",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/shredded-mozzarella/"
+  },
+  {
+    "slug": "feta",
+    "name": "Feta (crumbled)",
+    "category": "Dairy",
+    "grams_per_us_cup": 150,
+    "grams_per_tbsp": 9.4,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/feta/"
+  },
+  {
+    "slug": "whipped-cream",
+    "name": "Whipped cream (whipped)",
+    "category": "Dairy",
+    "grams_per_us_cup": 60,
+    "grams_per_tbsp": 3.8,
+    "grams_per_tsp": 1.3,
+    "url": "https://bakemath.web.app/cups-to-grams/whipped-cream/"
+  },
+  {
+    "slug": "cream-of-tartar",
+    "name": "Cream of tartar",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 150,
+    "grams_per_tbsp": 9.4,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/cream-of-tartar/"
+  },
+  {
+    "slug": "morton-kosher-salt",
+    "name": "Kosher salt (Morton)",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 230,
+    "grams_per_tbsp": 14.4,
+    "grams_per_tsp": 4.8,
+    "url": "https://bakemath.web.app/cups-to-grams/morton-kosher-salt/"
+  },
+  {
+    "slug": "gelatin",
+    "name": "Gelatin powder",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 149,
+    "grams_per_tbsp": 9.3,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/gelatin/"
+  },
+  {
+    "slug": "ground-cinnamon",
+    "name": "Ground cinnamon",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 125,
+    "grams_per_tbsp": 7.8,
+    "grams_per_tsp": 2.6,
+    "url": "https://bakemath.web.app/cups-to-grams/ground-cinnamon/"
+  },
+  {
+    "slug": "ground-ginger",
+    "name": "Ground ginger",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 86,
+    "grams_per_tbsp": 5.4,
+    "grams_per_tsp": 1.8,
+    "url": "https://bakemath.web.app/cups-to-grams/ground-ginger/"
+  },
+  {
+    "slug": "ground-nutmeg",
+    "name": "Ground nutmeg",
+    "category": "Leavening & salt",
+    "grams_per_us_cup": 106,
+    "grams_per_tbsp": 6.6,
+    "grams_per_tsp": 2.2,
+    "url": "https://bakemath.web.app/cups-to-grams/ground-nutmeg/"
+  },
+  {
+    "slug": "dutch-process-cocoa",
+    "name": "Dutch-process cocoa",
+    "category": "Other",
+    "grams_per_us_cup": 84,
+    "grams_per_tbsp": 5.3,
+    "grams_per_tsp": 1.8,
+    "url": "https://bakemath.web.app/cups-to-grams/dutch-process-cocoa/"
+  },
+  {
+    "slug": "whole-almonds",
+    "name": "Almonds (whole)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 143,
+    "grams_per_tbsp": 8.9,
+    "grams_per_tsp": 3,
+    "url": "https://bakemath.web.app/cups-to-grams/whole-almonds/"
+  },
+  {
+    "slug": "hazelnuts",
+    "name": "Hazelnuts (chopped)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 120,
+    "grams_per_tbsp": 7.5,
+    "grams_per_tsp": 2.5,
+    "url": "https://bakemath.web.app/cups-to-grams/hazelnuts/"
+  },
+  {
+    "slug": "cashews",
+    "name": "Cashews (whole)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 130,
+    "grams_per_tbsp": 8.1,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/cashews/"
+  },
+  {
+    "slug": "peanuts",
+    "name": "Peanuts",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 146,
+    "grams_per_tbsp": 9.1,
+    "grams_per_tsp": 3,
+    "url": "https://bakemath.web.app/cups-to-grams/peanuts/"
+  },
+  {
+    "slug": "pistachios",
+    "name": "Pistachios (shelled)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 123,
+    "grams_per_tbsp": 7.7,
+    "grams_per_tsp": 2.6,
+    "url": "https://bakemath.web.app/cups-to-grams/pistachios/"
+  },
+  {
+    "slug": "macadamia-nuts",
+    "name": "Macadamia nuts",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 134,
+    "grams_per_tbsp": 8.4,
+    "grams_per_tsp": 2.8,
+    "url": "https://bakemath.web.app/cups-to-grams/macadamia-nuts/"
+  },
+  {
+    "slug": "pine-nuts",
+    "name": "Pine nuts",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 135,
+    "grams_per_tbsp": 8.4,
+    "grams_per_tsp": 2.8,
+    "url": "https://bakemath.web.app/cups-to-grams/pine-nuts/"
+  },
+  {
+    "slug": "pumpkin-seeds",
+    "name": "Pumpkin seeds",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 130,
+    "grams_per_tbsp": 8.1,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/pumpkin-seeds/"
+  },
+  {
+    "slug": "sunflower-seeds",
+    "name": "Sunflower seeds",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 140,
+    "grams_per_tbsp": 8.8,
+    "grams_per_tsp": 2.9,
+    "url": "https://bakemath.web.app/cups-to-grams/sunflower-seeds/"
+  },
+  {
+    "slug": "poppy-seeds",
+    "name": "Poppy seeds",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 140,
+    "grams_per_tbsp": 8.8,
+    "grams_per_tsp": 2.9,
+    "url": "https://bakemath.web.app/cups-to-grams/poppy-seeds/"
+  },
+  {
+    "slug": "whole-flaxseed",
+    "name": "Flaxseed (whole)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 168,
+    "grams_per_tbsp": 10.5,
+    "grams_per_tsp": 3.5,
+    "url": "https://bakemath.web.app/cups-to-grams/whole-flaxseed/"
+  },
+  {
+    "slug": "hemp-seeds",
+    "name": "Hemp seeds",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 160,
+    "grams_per_tbsp": 10,
+    "grams_per_tsp": 3.3,
+    "url": "https://bakemath.web.app/cups-to-grams/hemp-seeds/"
+  },
+  {
+    "slug": "coconut-flakes",
+    "name": "Coconut flakes (unsweetened)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 60,
+    "grams_per_tbsp": 3.8,
+    "grams_per_tsp": 1.3,
+    "url": "https://bakemath.web.app/cups-to-grams/coconut-flakes/"
+  },
+  {
+    "slug": "dried-cranberries",
+    "name": "Dried cranberries",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 113,
+    "grams_per_tbsp": 7.1,
+    "grams_per_tsp": 2.4,
+    "url": "https://bakemath.web.app/cups-to-grams/dried-cranberries/"
+  },
+  {
+    "slug": "chopped-dates",
+    "name": "Dates (chopped)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 150,
+    "grams_per_tbsp": 9.4,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/chopped-dates/"
+  },
+  {
+    "slug": "dried-apricots",
+    "name": "Dried apricots (chopped)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 130,
+    "grams_per_tbsp": 8.1,
+    "grams_per_tsp": 2.7,
+    "url": "https://bakemath.web.app/cups-to-grams/dried-apricots/"
+  },
+  {
+    "slug": "currants",
+    "name": "Currants",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 140,
+    "grams_per_tbsp": 8.8,
+    "grams_per_tsp": 2.9,
+    "url": "https://bakemath.web.app/cups-to-grams/currants/"
+  },
+  {
+    "slug": "white-chocolate-chips",
+    "name": "White chocolate chips",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 170,
+    "grams_per_tbsp": 10.6,
+    "grams_per_tsp": 3.5,
+    "url": "https://bakemath.web.app/cups-to-grams/white-chocolate-chips/"
+  },
+  {
+    "slug": "chopped-chocolate",
+    "name": "Chocolate (chopped)",
+    "category": "Nuts, seeds & mix-ins",
+    "grams_per_us_cup": 160,
+    "grams_per_tbsp": 10,
+    "grams_per_tsp": 3.3,
+    "url": "https://bakemath.web.app/cups-to-grams/chopped-chocolate/"
+  },
+  {
+    "slug": "blueberries",
+    "name": "Blueberries (fresh)",
+    "category": "Fruit & vegetables",
+    "grams_per_us_cup": 148,
+    "grams_per_tbsp": 9.3,
+    "grams_per_tsp": 3.1,
+    "url": "https://bakemath.web.app/cups-to-grams/blueberries/"
+  },
+  {
+    "slug": "raspberries",
+    "name": "Raspberries (fresh)",
+    "category": "Fruit & vegetables",
+    "grams_per_us_cup": 123,
+    "grams_per_tbsp": 7.7,
+    "grams_per_tsp": 2.6,
+    "url": "https://bakemath.web.app/cups-to-grams/raspberries/"
+  },
+  {
+    "slug": "strawberries",
+    "name": "Strawberries (sliced)",
+    "category": "Fruit & vegetables",
+    "grams_per_us_cup": 166,
+    "grams_per_tbsp": 10.4,
+    "grams_per_tsp": 3.5,
+    "url": "https://bakemath.web.app/cups-to-grams/strawberries/"
+  },
+  {
+    "slug": "chopped-apples",
+    "name": "Apples (chopped)",
+    "category": "Fruit & vegetables",
+    "grams_per_us_cup": 125,
+    "grams_per_tbsp": 7.8,
+    "grams_per_tsp": 2.6,
+    "url": "https://bakemath.web.app/cups-to-grams/chopped-apples/"
+  },
+  {
+    "slug": "grated-carrots",
+    "name": "Carrots (grated)",
+    "category": "Fruit & vegetables",
+    "grams_per_us_cup": 110,
+    "grams_per_tbsp": 6.9,
+    "grams_per_tsp": 2.3,
+    "url": "https://bakemath.web.app/cups-to-grams/grated-carrots/"
+  },
+  {
+    "slug": "grated-zucchini",
+    "name": "Zucchini (grated)",
+    "category": "Fruit & vegetables",
+    "grams_per_us_cup": 120,
+    "grams_per_tbsp": 7.5,
+    "grams_per_tsp": 2.5,
+    "url": "https://bakemath.web.app/cups-to-grams/grated-zucchini/"
+  }
+]
